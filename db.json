@@ -2,462 +2,539 @@
   "message": "ok",
   "data": [
     {
+      "id": 50,
       "name": "เชียงใหม่",
       "region_id": 1,
       "zone_amount": 9,
       "region_name": "ภาคเหนือ"
     },
     {
+      "id": 51,
       "name": "ลำพูน",
       "region_id": 1,
       "zone_amount": 2,
       "region_name": "ภาคเหนือ"
     },
     {
+      "id": 52,
       "name": "ลำปาง",
       "region_id": 1,
       "zone_amount": 4,
       "region_name": "ภาคเหนือ"
     },
     {
+      "id": 53,
       "name": "อุตรดิตถ์",
       "region_id": 1,
       "zone_amount": 2,
       "region_name": "ภาคเหนือ"
     },
     {
+      "id": 54,
       "name": "แพร่",
       "region_id": 1,
       "zone_amount": 2,
       "region_name": "ภาคเหนือ"
     },
     {
+      "id": 55,
       "name": "น่าน",
       "region_id": 1,
       "zone_amount": 3,
       "region_name": "ภาคเหนือ"
     },
     {
+      "id": 56,
       "name": "พะเยา",
       "region_id": 1,
       "zone_amount": 3,
       "region_name": "ภาคเหนือ"
     },
     {
+      "id": 57,
       "name": "เชียงราย",
       "region_id": 1,
       "zone_amount": 7,
       "region_name": "ภาคเหนือ"
     },
     {
+      "id": 58,
       "name": "แม่ฮ่องสอน",
       "region_id": 1,
       "zone_amount": 1,
       "region_name": "ภาคเหนือ"
     },
     {
+      "id": 60,
       "name": "นครสวรรค์",
       "region_id": 1,
       "zone_amount": 6,
       "region_name": "ภาคเหนือ"
     },
     {
+      "id": 61,
       "name": "อุทัยธานี",
       "region_id": 1,
       "zone_amount": 2,
       "region_name": "ภาคเหนือ"
     },
     {
+      "id": 62,
       "name": "กำแพงเพชร",
       "region_id": 1,
       "zone_amount": 4,
       "region_name": "ภาคเหนือ"
     },
     {
+      "id": 63,
       "name": "ตาก",
       "region_id": 1,
       "zone_amount": 3,
       "region_name": "ภาคเหนือ"
     },
     {
+      "id": 64,
       "name": "สุโขทัย",
       "region_id": 1,
       "zone_amount": 3,
       "region_name": "ภาคเหนือ"
     },
     {
+      "id": 65,
       "name": "พิษณุโลก",
       "region_id": 1,
       "zone_amount": 5,
       "region_name": "ภาคเหนือ"
     },
     {
+      "id": 66,
       "name": "พิจิตร",
       "region_id": 1,
       "zone_amount": 3,
       "region_name": "ภาคเหนือ"
     },
     {
+      "id": 67,
       "name": "เพชรบูรณ์",
       "region_id": 1,
       "zone_amount": 5,
       "region_name": "ภาคเหนือ"
     },
     {
+      "id": 30,
       "name": "นครราชสีมา",
       "region_id": 2,
       "zone_amount": 14,
       "region_name": "ภาคอีสาน"
     },
     {
+      "id": 31,
       "name": "บุรีรัมย์",
       "region_id": 2,
       "zone_amount": 8,
       "region_name": "ภาคอีสาน"
     },
     {
+      "id": 32,
       "name": "สุรินทร์",
       "region_id": 2,
       "zone_amount": 7,
       "region_name": "ภาคอีสาน"
     },
     {
+      "id": 33,
       "name": "ศรีสะเกษ",
       "region_id": 2,
       "zone_amount": 8,
       "region_name": "ภาคอีสาน"
     },
     {
+      "id": 34,
       "name": "อุบลราชธานี",
       "region_id": 2,
       "zone_amount": 10,
       "region_name": "ภาคอีสาน"
     },
     {
+      "id": 35,
       "name": "ยโสธร",
       "region_id": 2,
       "zone_amount": 3,
       "region_name": "ภาคอีสาน"
     },
     {
+      "id": 36,
       "name": "ชัยภูมิ",
       "region_id": 2,
       "zone_amount": 6,
       "region_name": "ภาคอีสาน"
     },
     {
+      "id": 37,
       "name": "อำนาจเจริญ",
       "region_id": 2,
       "zone_amount": 2,
       "region_name": "ภาคอีสาน"
     },
     {
+      "id": 38,
       "name": "บึงกาฬ",
       "region_id": 2,
       "zone_amount": 2,
       "region_name": "ภาคอีสาน"
     },
     {
+      "id": 39,
       "name": "หนองบัวลำภู",
       "region_id": 2,
       "zone_amount": 3,
       "region_name": "ภาคอีสาน"
     },
     {
+      "id": 40,
       "name": "ขอนแก่น",
       "region_id": 2,
       "zone_amount": 10,
       "region_name": "ภาคอีสาน"
     },
     {
+      "id": 41,
       "name": "อุดรธานี",
       "region_id": 2,
       "zone_amount": 8,
       "region_name": "ภาคอีสาน"
     },
     {
+      "id": 42,
       "name": "เลย",
       "region_id": 2,
       "zone_amount": 3,
       "region_name": "ภาคอีสาน"
     },
     {
+      "id": 43,
       "name": "หนองคาย",
       "region_id": 2,
       "zone_amount": 3,
       "region_name": "ภาคอีสาน"
     },
     {
+      "id": 44,
       "name": "มหาสารคาม",
       "region_id": 2,
       "zone_amount": 5,
       "region_name": "ภาคอีสาน"
     },
     {
+      "id": 45,
       "name": "ร้อยเอ็ด",
       "region_id": 2,
       "zone_amount": 7,
       "region_name": "ภาคอีสาน"
     },
     {
+      "id": 46,
       "name": "กาฬสินธุ์",
       "region_id": 2,
       "zone_amount": 5,
       "region_name": "ภาคอีสาน"
     },
     {
+      "id": 47,
       "name": "สกลนคร",
       "region_id": 2,
       "zone_amount": 6,
       "region_name": "ภาคอีสาน"
     },
     {
+      "id": 48,
       "name": "นครพนม",
       "region_id": 2,
       "zone_amount": 4,
       "region_name": "ภาคอีสาน"
     },
     {
+      "id": 49,
       "name": "มุกดาหาร",
       "region_id": 2,
       "zone_amount": 2,
       "region_name": "ภาคอีสาน"
     },
     {
+      "id": 10,
       "name": "กรุงเทพมหานคร",
       "region_id": 3,
       "zone_amount": 30,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 11,
       "name": "สมุทรปราการ",
       "region_id": 3,
       "zone_amount": 7,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 12,
       "name": "นนทบุรี",
       "region_id": 3,
       "zone_amount": 6,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 13,
       "name": "ปทุมธานี",
       "region_id": 3,
       "zone_amount": 6,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 14,
       "name": "พระนครศรีอยุธยา",
       "region_id": 3,
       "zone_amount": 4,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 15,
       "name": "อ่างทอง",
       "region_id": 3,
       "zone_amount": 1,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 16,
       "name": "ลพบุรี",
       "region_id": 3,
       "zone_amount": 4,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 17,
       "name": "สิงห์บุรี",
       "region_id": 3,
       "zone_amount": 1,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 18,
       "name": "ชัยนาท",
       "region_id": 3,
       "zone_amount": 2,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 19,
       "name": "สระบุรี",
       "region_id": 3,
       "zone_amount": 3,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 20,
       "name": "ชลบุรี",
       "region_id": 3,
       "zone_amount": 8,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 21,
       "name": "ระยอง",
       "region_id": 3,
       "zone_amount": 4,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 22,
       "name": "จันทบุรี",
       "region_id": 3,
       "zone_amount": 3,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 23,
       "name": "ตราด",
       "region_id": 3,
       "zone_amount": 1,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 24,
       "name": "ฉะเชิงเทรา",
       "region_id": 3,
       "zone_amount": 4,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 25,
       "name": "ปราจีนบุรี",
       "region_id": 3,
       "zone_amount": 3,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 26,
       "name": "นครนายก",
       "region_id": 3,
       "zone_amount": 1,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 27,
       "name": "สระแก้ว",
       "region_id": 3,
       "zone_amount": 3,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 70,
       "name": "ราชบุรี",
       "region_id": 3,
       "zone_amount": 5,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 71,
       "name": "กาญจนบุรี",
       "region_id": 3,
       "zone_amount": 5,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 72,
       "name": "สุพรรณบุรี",
       "region_id": 3,
       "zone_amount": 4,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 73,
       "name": "นครปฐม",
       "region_id": 3,
       "zone_amount": 5,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 74,
       "name": "สมุทรสาคร",
       "region_id": 3,
       "zone_amount": 3,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 75,
       "name": "สมุทรสงคราม",
       "region_id": 3,
       "zone_amount": 1,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 76,
       "name": "เพชรบุรี",
       "region_id": 3,
       "zone_amount": 3,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 77,
       "name": "ประจวบคีรีขันธ์",
       "region_id": 3,
       "zone_amount": 3,
       "region_name": "ภาคกลาง"
     },
     {
+      "id": 80,
       "name": "นครศรีธรรมราช",
       "region_id": 4,
       "zone_amount": 8,
       "region_name": "ภาคใต้"
     },
     {
+      "id": 81,
       "name": "กระบี่",
       "region_id": 4,
       "zone_amount": 2,
       "region_name": "ภาคใต้"
     },
     {
+      "id": 82,
       "name": "พังงา",
       "region_id": 4,
       "zone_amount": 1,
       "region_name": "ภาคใต้"
     },
     {
+      "id": 83,
       "name": "ภูเก็ต",
       "region_id": 4,
       "zone_amount": 2,
       "region_name": "ภาคใต้"
     },
     {
+      "id": 84,
       "name": "สุราษฎร์ธานี",
       "region_id": 4,
       "zone_amount": 6,
       "region_name": "ภาคใต้"
     },
     {
+      "id": 85,
       "name": "ระนอง",
       "region_id": 4,
       "zone_amount": 1,
       "region_name": "ภาคใต้"
     },
     {
+      "id": 86,
       "name": "ชุมพร",
       "region_id": 4,
       "zone_amount": 3,
       "region_name": "ภาคใต้"
     },
     {
+      "id": 90,
       "name": "สงขลา",
       "region_id": 4,
       "zone_amount": 8,
       "region_name": "ภาคใต้"
     },
     {
+      "id": 91,
       "name": "สตูล",
       "region_id": 4,
       "zone_amount": 2,
       "region_name": "ภาคใต้"
     },
     {
+      "id": 92,
       "name": "ตรัง",
       "region_id": 4,
       "zone_amount": 3,
       "region_name": "ภาคใต้"
     },
     {
+      "id": 93,
       "name": "พัทลุง",
       "region_id": 4,
       "zone_amount": 3,
       "region_name": "ภาคใต้"
     },
     {
+      "id": 94,
       "name": "ปัตตานี",
       "region_id": 4,
       "zone_amount": 4,
       "region_name": "ภาคใต้"
     },
     {
+      "id": 95,
       "name": "ยะลา",
       "region_id": 4,
       "zone_amount": 3,
       "region_name": "ภาคใต้"
     },
     {
+      "id": 96,
       "name": "นราธิวาส",
       "region_id": 4,
       "zone_amount": 4,
